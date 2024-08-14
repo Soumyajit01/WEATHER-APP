@@ -1,4 +1,4 @@
-apiKey="YOUR API KEY" // You can get a free API key on RapidAPI; No credit card details are required for this one. So you can use this application and customise accordingly
+apiKey="72dbfaadecmshf504bd976860b29p1b98d6jsn82586489563f" // You can get a free API key on RapidAPI; No credit card details are required for this one. So you can use this application and customise accordingly
 {
     const url = 'https://weather-by-api-ninjas.p.rapidapi.com/v1/weather?city=Delhi';
 const options = {
